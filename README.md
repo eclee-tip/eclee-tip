@@ -1,11 +1,11 @@
 #### **Name:** Eugene Christopher Lee
-##### **Year Level:** 3rd Year
+##### **Year Level:** Graduated
 ##### **Interests:** _Watching random videos, playing online games_
 ##### **Email Address:** qecblee@tip.edu.ph
 #### **Computer Specs**
 
-**CPU:** Intel 7 7th gen
+**CPU:** Intel i9 10900KF
 
-**RAM:** 8GB DDR3
+**RAM:** 32GB DDR4
 
-**DISK type and size:** SSD 128GB, HDD 1TB
+**DISK type and size:** SSD 1TB, HDD 10TB
