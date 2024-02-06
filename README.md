@@ -1,5 +1,5 @@
 #### **Name:** Eugene Lee
-##### **Year Level:** Graduated
+##### **Year Level:** Third Year
 ##### **Interests:** _Watching random videos, playing online games_
 ##### **Email Address:** qecblee@tip.edu.ph
 #### **Computer Specs**
