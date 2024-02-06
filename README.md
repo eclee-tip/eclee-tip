@@ -1,4 +1,4 @@
-#### **Name:** Eugene Christopher Lee
+#### **Name:** Eugene Lee
 ##### **Year Level:** Graduated
 ##### **Interests:** _Watching random videos, playing online games_
 ##### **Email Address:** qecblee@tip.edu.ph
